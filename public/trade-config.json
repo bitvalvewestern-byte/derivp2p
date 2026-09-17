@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "axis bank",
-  "tradeId": "123456",
-  "amount": "670.00 USD",
-  "status": "waiting"
+  "paymentMethod": "M-pesa",
+  "tradeId": "00000",
+  "amount": "2.00 USD",
+  "status": "complete"
 }
