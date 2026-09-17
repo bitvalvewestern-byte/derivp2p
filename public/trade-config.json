@@ -1,6 +1,6 @@
 {
   "paymentMethod": "M-pesa",
-  "tradeId": "TR-80987",
+  "tradeId": "000000",
   "amount": "110.00 USD",
   "status": "waiting"
 }
