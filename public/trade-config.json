@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Bank Transfer",
-  "tradeId": "TR-88421",
-  "amount": "150.00 USD",
+  "paymentMethod": "M-pesa",
+  "tradeId": "TR-80987",
+  "amount": "110.00 USD",
   "status": "waiting"
 }
