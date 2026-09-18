@@ -2,5 +2,5 @@
   "paymentMethod": "M-pesa",
   "tradeId": "1000150",
   "amount": "8.00 USD",
-  "status": "complete"
+  "status": "waiting"
 }
